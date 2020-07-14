@@ -4,8 +4,8 @@ https://ruijadomingues.netlify.app/
 
 http://ruijadomingues.com/
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rui%20Domingues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruijadomingues/)](https://www.linkedin.com/in/ruijadomingues/) 
-[![Gmail Badge](https://img.shields.io/badge/ruijadomingues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruijadomingues@gmail.com)](mailto:ruijadomingues@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Rui%20Domingues-206E38?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruijadomingues/)](https://www.linkedin.com/in/ruijadomingues/) 
+[![Gmail Badge](https://img.shields.io/badge/ruijadomingues@gmail.com-206E38?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruijadomingues@gmail.com)](mailto:ruijadomingues@gmail.com)
 
 I am a Front End developer with industry experience building websites, web and mobile applications.
 
