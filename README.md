@@ -1,6 +1,7 @@
 # Rui Domingues
 
 https://ruijadomingues.netlify.app/
+
 http://ruijadomingues.com/
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rui%20Domingues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruijadomingues/)](https://www.linkedin.com/in/ruijadomingues/) 
