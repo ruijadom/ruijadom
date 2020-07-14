@@ -9,6 +9,7 @@ Tech Skills:
 
 »»» HTML5, CSS3, SASS, LESS, CSS-in-JS, Responsive Design
 »»» JavaScript (ES6, ES7), JQuery, AngularJs, Angular, React.js, Redux, Gatsby, Graphql
+»»» TypeScript
 »»» Webpack, Gruntjs, Gulp
 »»» Ionic 4, Nativescript
 »»» Node.js, Express.js, Serverless Architecture
