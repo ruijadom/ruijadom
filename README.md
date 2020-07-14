@@ -11,24 +11,14 @@ I am a Front End developer with industry experience building websites, web and m
 
 Tech Skills:
 
-» HTML5, CSS3, SASS, LESS, CSS-in-JS, Responsive Design
-
-» JavaScript (ES6, ES7), JQuery, AngularJs, Angular, React.js, Redux, Gatsby, Graphql
-
-» Webpack, Gruntjs, Gulp
-
-» Ionic 4, Nativescript
-
-» Node.js, Express.js, Serverless Architecture
-
-» Cypress
-
-» Git, Svn
-
-» Docker
-
-» Agile SCRUM
-
-» UX, UI Prototyping
-
-» MySql - Mariadb, PostgreSQL
+»»» HTML5, CSS3, SASS, LESS, CSS-in-JS, Responsive Design
+»»» JavaScript (ES6, ES7), JQuery, AngularJs, Angular, React.js, Redux, Gatsby, Graphql
+»»» Webpack, Gruntjs, Gulp
+»»» Ionic 4, Nativescript
+»»» Node.js, Express.js, Serverless Architecture
+»»» Cypress
+»»» Git, Svn
+»»» Docker
+»»» Agile SCRUM
+»»» UX, UI Prototyping
+»»» MySql - Mariadb, PostgreSQL
