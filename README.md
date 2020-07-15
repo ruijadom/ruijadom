@@ -5,8 +5,10 @@
 
 I am a Front End developer with industry experience building websites, web and mobile applications.
 
-```
-## Tech Skills:
+Tech Skills:
+
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>.svg)](https://shields.io/)
+
 HTML5, CSS3, SASS, LESS, CSS-in-JS, Responsive Design,
 JavaScript (ES6, ES7), JQuery, AngularJs, Angular, React.js, Redux, Gatsby, Graphql,
 TypeScript,
@@ -19,4 +21,4 @@ Docker,
 Agile SCRUM,
 UX, UI Prototyping,
 MySql - Mariadb, PostgreSQL
-```
+
