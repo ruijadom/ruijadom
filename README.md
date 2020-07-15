@@ -19,7 +19,3 @@ Docker,
 Agile SCRUM,
 UX, UI Prototyping,
 MySql - Mariadb, PostgreSQL
-
-https://ruijadomingues.netlify.app/
-
-http://ruijadomingues.com/
