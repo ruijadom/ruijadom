@@ -6,7 +6,7 @@
 I am a Front End developer with industry experience building websites, web and mobile applications.
 
 Tech Skills:
-HTML5, CSS3, SASS, LESS, CSS-in-JS, Responsive Design,
+- HTML5, CSS3, SASS, LESS, CSS-in-JS, Responsive Design,
 JavaScript (ES6, ES7), JQuery, AngularJs, Angular, React.js, Redux, Gatsby, Graphql,
 TypeScript,
 Webpack, Gruntjs, Gulp,
