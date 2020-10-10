@@ -22,9 +22,6 @@
 - interests: code, permaculture, environment conservartion
 
 ### Techs
-
-<br/>
-
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
