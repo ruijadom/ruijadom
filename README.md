@@ -1,11 +1,13 @@
 ### Rui Domingues
-[![Linkedin Badge](https://img.shields.io/badge/-Rui%20Domingues-0177B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruijadomingues/)](https://www.linkedin.com/in/ruijadomingues/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rui%20Domingues-0177B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruijadomingues/)](https://www.linkedin.com/in/ruijadomingues/)
 [![Gmail Badge](https://img.shields.io/badge/ruijadomingues@gmail.com-973227?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruijadomingues@gmail.com)](mailto:ruijadomingues@gmail.com)
 
 - working: full-time remote at **One Mineral**.
 - interests: code, permaculture ...
 
 ### Techs
+
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -41,11 +43,31 @@
       width="40"
       height="40"
     />
+      
   </a>
     <a href="https://www.webpack.org" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg"
       alt="webpack"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+</a>
+    <a href="https://www.sass.org" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://www.less.org" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg"
+      alt="less"
       width="40"
       height="40"
     />
@@ -76,9 +98,8 @@
       height="40"
     />
   </a>
-  
 
-  
+
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
@@ -88,6 +109,7 @@
     />
   </a>
 </p>
+
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
