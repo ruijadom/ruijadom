@@ -36,7 +36,7 @@
       height="40"
     />
   </a>
-    <a href="https://angular.org/" target="_blank">
+    <a href="https://angular.io/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg"
       alt="angularjs"
@@ -45,7 +45,7 @@
     />
       
   </a>
-    <a href="https://www.webpack.org" target="_blank">
+    <a href="https://webpack.js.org/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg"
       alt="webpack"
@@ -56,7 +56,7 @@
 
 
 </a>
-    <a href="https://www.sass.org" target="_blank">
+    <a href="https://sass-lang.com/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg"
       alt="sass"
@@ -64,7 +64,7 @@
       height="40"
     />
   </a>
-      <a href="https://www.less.org" target="_blank">
+      <a href="http://lesscss.org/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg"
       alt="less"
@@ -72,7 +72,7 @@
       height="40"
     />
   </a>
-      <a href="https://www.grunt.org" target="_blank">
+      <a href="https://gruntjs.com/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/grunt/grunt-original.svg"
       alt="grunt"
