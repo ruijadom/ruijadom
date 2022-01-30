@@ -5,5 +5,4 @@
 
 - interests: permaculture & music & code
 
-
-
+[![Apollo Graphql](https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg)](https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda)
