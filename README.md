@@ -37,9 +37,18 @@ I have a strong foundation in Javascript and have experience with Typescript, wh
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
+<a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
+<img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />
+</a>
+<a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
+<img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" />
+</a>
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/ruijadom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/ruijadom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ruijadomingues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ruijadomingues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ruijadomingues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -51,10 +60,3 @@ I have a strong foundation in Javascript and have experience with Typescript, wh
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ruijadomingues"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-<a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
-<img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />
-</a>
-<a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
-<img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" />
-</a>
