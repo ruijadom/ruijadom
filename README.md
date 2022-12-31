@@ -11,12 +11,15 @@ I have a strong foundation in Javascript and have experience with Typescript, wh
 * 🧠  I'm learning Graphql, Apollo Federation
 * 🤝  I'm open to collaborating on interesting projects
 
+<p>
 <a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
 <img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />
 </a>
 <a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
 <img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" />
 </a>
+</p>
+
 
 
 ### Socials
