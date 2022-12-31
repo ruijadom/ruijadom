@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I have a strong foundation in Javascript and have experience with Typescript, which adds type checking to my code and helps me catch errors before they become a problem. I have experience working with a variety of API architectures, including REST and GraphQL. I am proficient in using these technologies to fetch data and manipulate it within the front-end of a web application. In terms of frameworks and libraries, I am well-versed in React and Angular. I have used both of these frameworks to build responsive and user-friendly web applications. Additionally, I have experience with state management libraries such as Redux and React-Query, as well as the Apollo client for working with GraphQL APIs. I am also skilled in using CSS preprocessors such as SASS and have experience with modern CSS frameworks like Tailwind and Styled-Components. This allows me to write clean, maintainable, and scalable CSS for my projects.
+I have a strong foundation in Javascript and have experience with TypescriptI have experience working with a variety of API architectures, including REST and GraphQL. I am proficient in using these technologies to fetch data and manipulate it within the front-end of a web application. In terms of frameworks and libraries, I am well-versed in React and Angular. I have used both of these frameworks to build responsive and user-friendly web applications. Additionally, I have experience with state management libraries such as Redux and React-Query, as well as the Apollo client for working with GraphQL APIs. I am also skilled in using CSS preprocessors such as SASS and have experience with modern CSS frameworks like Tailwind and Styled-Components. This allows me to write clean, maintainable, and scalable CSS for my projects.
 
 *   🌍  I'm based in Viana do Castelo
 *   🖥️  See my portfolio at [https://ruijadomingues.netlify.app/](http://ruijadomingues.netlify.app/)
@@ -52,7 +52,7 @@ I have a strong foundation in Javascript and have experience with Typescript, wh
                       href="http://www.github.com/ruijadom"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=ruijadom&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>### Support Me<a
                   href="https://www.buymeacoffee.com/ruijadomingues"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+</p>
 <a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
 <img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />
 </a>
