@@ -1,6 +1,7 @@
 ## Hi, I´m a Front-end Developer
 
 - I´m currently working on AdviceFront
+- Ask me about Javascript, Typescript, GraphQl, REST, React, Angular, SASS, Tailwind, Styled-Components, Redux, React-Query, Apollo
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rui%20Domingues-0177B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruijadomingues/)](https://www.linkedin.com/in/ruijadomingues/)
