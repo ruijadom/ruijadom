@@ -1,4 +1,6 @@
-### Rui Domingues
+## Hi, I´m a Front-end Developer
+
+- I´m currently working on AdviceFront
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rui%20Domingues-0177B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruijadomingues/)](https://www.linkedin.com/in/ruijadomingues/)
