@@ -11,7 +11,12 @@ I have a strong foundation in Javascript and have experience with Typescript. I 
 * 🧠  I'm learning Graphql, Apollo Federation
 * 🤝  I'm open to collaborating on interesting projects
 
-### 
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/ruijadomingues"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+_____
 
 <p align="left">
 <a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
@@ -21,9 +26,3 @@ I have a strong foundation in Javascript and have experience with Typescript. I 
 <img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" />
 </a>
 </p>
-
-_______
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ruijadomingues"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
