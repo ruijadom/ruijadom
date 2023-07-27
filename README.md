@@ -25,4 +25,7 @@ _____
 <a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
 <img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" />
 </a>
+<a href="https://www.hackerrank.com/ruijadomingues?badge=problem-solving&stars=1&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share_profile&social=linkedin" target="_blank">
+<img align="left" width="100px" src="https://www.hackerrank.com/ruijadomingues?badge=problem-solving&stars=1&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share_profile&social=linkedin"  />
+</a>
 </p>
