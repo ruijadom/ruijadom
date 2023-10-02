@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Front-end Developer
--------------------
 
 I have a strong foundation in JavaScript and TypeScript, with experience in REST and GraphQL APIs. I'm proficient in React and Angular, along with Redux, React-Query, and Apollo client. I'm skilled in styling with tools like Styled Components, Stitches, SASS, Tailwind enabling clean and scalable CSS for web applications.
 
