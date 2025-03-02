@@ -6,7 +6,7 @@ Front-end Developer
 I have a strong foundation in JavaScript and TypeScript, with experience in REST and GraphQL APIs. I'm proficient in React and Angular, along with Redux, React-Query, and Apollo client. I'm skilled in styling with tools like Styled Components, Stitches, SASS, Tailwind enabling clean and scalable CSS for web applications.
 
 * 🌍  I'm based in Viana do Castelo
-* 🖥️  See my portfolio at [https://ruijadomingues.netlify.app/](http://ruijadomingues.netlify.app/)
+* 🖥️  See my blog at [https://www.ruijadom.com/](https://www.ruijadom.com/)
 * 🧠  I'm learning Graphql, Apollo Federation
 * 🤝  I'm open to collaborating on interesting projects
 
