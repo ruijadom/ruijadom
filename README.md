@@ -1,27 +1,70 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rui Domingues
-=====================================================================================================================================
+<h1 align="center">Hi 👋 I'm Rui Domingues</h1>
 
-Front-end Developer
+<p align="center">
+  <b>Staff Frontend Engineer</b> · Design Systems · Real-Time Communications · Agentic Tooling
+</p>
 
-I have a strong foundation in JavaScript and TypeScript, with experience in REST and GraphQL APIs. I'm proficient in React and Angular, along with Redux, React-Query, and Apollo client. I'm skilled in styling with tools like Styled Components, Stitches, SASS, Tailwind enabling clean and scalable CSS for web applications.
+<p align="center">
+  <a href="https://www.ruijadom.com/"><img src="https://img.shields.io/badge/Blog-ruijadom.com-0A0A0A?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/ruijadomingues"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ruijadomingues@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-* 🌍  I'm based in Viana do Castelo
-* 🖥️  See my blog at [https://www.ruijadom.com/](https://www.ruijadom.com/)
-* 🧠  I'm learning Graphql, Apollo Federation
-* 🤝  I'm open to collaborating on interesting projects
+---
 
+I build frontend platforms that other engineers build on top of — design systems, shared infrastructure packages, and cross-platform apps with React, React Native, Electron and TypeScript.
 
-### Support Me
+Right now I'm at **Broadvoice**, working on the Communicator ecosystem (chat, softphone, video) across web, desktop and mobile, and leading a cross-functional Frontend Expert Group that governs standards, design tokens and shared components across product platforms.
 
-<a href="https://www.buymeacoffee.com/ruijadomingues"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+Before that: Tech Lead of a design system in fintech, UI ecosystems in proptech, and accessible interfaces for hospital systems. Roughly a decade of turning messy frontend estates into things people enjoy working in.
 
-_____
+### What I'm into right now
 
-<p align="left">
-<a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
-<img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />
-</a>
-<a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda" target="_blank">
-<img align="left" alt="Terminal" width="100px" src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" />
-</a>
+- 🧩 **Design systems at scale** — semantic token layers, multi-brand theming, per-component versioning
+- 🤖 **Agentic engineering** — harness design, multi-agent pipelines, and where LLMs actually earn their keep in a dev workflow
+- 📞 **Real-time comms on the web** — WebRTC, SIP, call quality, latency and jitter
+- ⚡ **The edges of the browser** — WASM, WebGPU, client-side ML inference
+- 🌱 Off-screen: dry gardens and permaculture in northern Portugal, running, and a guitar
+
+### A few details
+
+- 🌍 Based in **Caminha, Portugal** — remote-first, always
+- ✍️ I write about frontend architecture at **[ruijadom.com](https://www.ruijadom.com/)**
+
+### Tech I reach for
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+### Certifications
+
+<p>
+  <a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda">
+    <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="Apollo Graph Developer – Associate" width="96" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://odyssey.apollographql.com/certifications/382db5c6-048d-4ae2-9151-a0e856e9abda">
+    <img src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" alt="Apollo Graph Developer – Professional" width="96" />
+  </a>
+</p>
+
+Apollo **Graph Developer — Associate** and **Professional**.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruijadom&show_icons=true&hide_border=true&theme=transparent&hide=issues" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijadom&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" height="150" />
 </p>
