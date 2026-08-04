@@ -61,10 +61,3 @@ Before that: Tech Lead of a design system in fintech, UI ecosystems in proptech,
 </p>
 
 Apollo **Graph Developer — Associate** and **Professional**.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruijadom&show_icons=true&hide_border=true&theme=transparent&hide=issues" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijadom&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" height="150" />
-</p>
