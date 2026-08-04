@@ -23,7 +23,7 @@ Before that: Tech Lead of a design system in fintech, UI ecosystems in proptech,
 - 🧩 **Design systems at scale** — semantic token layers, multi-brand theming, per-component versioning
 - 🤖 **Agentic engineering** — harness design, multi-agent pipelines, and where LLMs actually earn their keep in a dev workflow
 - 📞 **Real-time comms on the web** — WebRTC, SIP, call quality, latency and jitter
-- ⚡ **The edges of the browser** — WASM, WebGPU, client-side ML inference
+- ⚡ **The edges of the browser** — WASM, WebGPU
 - 🌱 Off-screen: dry gardens and permaculture in northern Portugal, running, and a guitar
 
 ### A few details
