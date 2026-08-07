@@ -16,16 +16,16 @@ I build frontend platforms that other engineers build on top of — design syste
 
 ### What I'm into right now
 
-- 🧩 **Design systems at scale** — semantic token layers, multi-brand theming, per-component versioning
-- 🤖 **Agentic engineering** — harness design, multi-agent pipelines, and where LLMs actually earn their keep in a dev workflow
-- 📞 **Real-time comms on the web** — WebRTC, SIP, call quality, latency and jitter
-- ⚡ **The edges of the browser** — WASM, WebGPU
-- 🌱 Off-screen: dry gardens and permaculture in northern Portugal, running, and a guitar
+- **Design systems at scale** — semantic token layers, multi-brand theming, per-component versioning
+- **Agentic engineering** — harness design, multi-agent pipelines, and where LLMs actually earn their keep in a dev workflow
+- **Real-time comms on the web** — WebRTC, SIP, call quality, latency and jitter
+- **The edges of the browser** — WASM, WebGPU
+- Off-screen: dry gardens and permaculture in northern Portugal, running, and a guitar
 
 ### A few details
 
-- 🌍 Based in **Caminha, Portugal** — remote-first, always
-- ✍️ I write about frontend architecture at **[ruijadom.com](https://www.ruijadom.com/)**
+- Based in **Caminha, Portugal** — remote-first, always
+- I write about frontend architecture at **[ruijadom.com](https://www.ruijadom.com/)**
 
 ### Tech I reach for
 
