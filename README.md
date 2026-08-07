@@ -14,10 +14,6 @@
 
 I build frontend platforms that other engineers build on top of — design systems, shared infrastructure packages, and cross-platform apps with React, React Native, Electron and TypeScript.
 
-Right now I'm at **Broadvoice**, working on the Communicator ecosystem (chat, softphone, video) across web, desktop and mobile, and leading a cross-functional Frontend Expert Group that governs standards, design tokens and shared components across product platforms.
-
-Before that: Tech Lead of a design system in fintech, UI ecosystems in proptech, and accessible interfaces for hospital systems. Roughly a decade of turning messy frontend estates into things people enjoy working in.
-
 ### What I'm into right now
 
 - 🧩 **Design systems at scale** — semantic token layers, multi-brand theming, per-component versioning
