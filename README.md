@@ -13,7 +13,7 @@ To: <sip:you@github.com>
 Call-ID: hello@ruijadom.com
 CSeq: 1 INVITE
 Contact: <sip:rui@ruijadom.com;transport=ws>
-Subject: Let's talk frontend
+Subject: Let's talk
 User-Agent: TypeScript/React (web; desktop; mobile)
 X-Working-On: real-time comms (chat, softphone, video), design systems
 X-Exploring: agentic engineering, multi-agent pipelines, WASM, WebGPU
